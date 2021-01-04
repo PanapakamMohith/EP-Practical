@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+	<student>
+		<id>001</id>
+		<regno>31249</regno>
+		<name>P.Mohith</name>
+		<avg>92</avg>
+		<dob>17-07-2002</dob>
+		<time>9:30 PM</time>
+		<mobile no="9999997777"/> 
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>002</id>
+		<regno>31187</regno>
+		<name>N.V.RadhaKrishna</name>
+		<avg>92</avg>
+		<dob>02-06-2002</dob>
+		<time>9:30 PM</time>
+		<mobile no="9999998888"/> 
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>003</id>
+		<regno>30001</regno>
+		<name>N.Rahul</name>
+		<avg>52</avg>
+		<dob>17-06-2002</dob>
+		<time>9:50 AM</time>
+		<mobile no="9999996666"/> 
+		<distinction>NO</distinction>
+	</student>
+	<student>
+		<id>004</id>
+		<regno>31134</regno>
+		<name>N.Pavan</name>
+		<avg>96</avg>
+		<dob>7-02-2002</dob>
+		<time>9:59 AM</time>
+		<mobile no="9999995555"/> 
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>005</id>
+		<regno>30240</regno>
+		<name>H.Prakash</name>
+		<avg>93</avg>
+		<dob>17-06-2002</dob>
+		<time>8:50 AM</time>
+		<mobile no="9999994444"/> 
+		<distinction>YES</distinction>
+	</student>
+</students_info>
